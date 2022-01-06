@@ -157,7 +157,7 @@ height: 46px;
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/slide/slide1.jpeg') top center / cover no-repeat ;
+    background: url('slide1.jpeg') top center / cover no-repeat ;
 }
 
 #slider .text-content{
